@@ -1,28 +1,40 @@
-name: Graphic.Ref
 favicon: null
-layout_spectrum: 0.41083
-typography_spectrum: 0.75138
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Graphic.Ref
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.325188
+  brandStrength: 0.2418784038163722
+  lightness: 0.1190476
   brandColors:
     - '#f1f5f8'
     - '#a19e99'
     - '#101008'
     - '#4c433a'
     - '#776e67'
-  brandStrength: 0.24187840381637216
-  lightness: 0.8032527465838939
-  saturation: 0.6338545482140034
-  rhythmicContrast: 0.5667932333890349
-purpose: []
+  rhythmicContrast: 0.4661654
+typography_spectrum: 0.9110276
+layout_spectrum: 0.7681704
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
