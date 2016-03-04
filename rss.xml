@@ -4,7 +4,7 @@
         <description><![CDATA[Graphic.Ref]]></description>
         <link>https://thegrid.ai/graphic-ref/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 08:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 08:07:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic-ref/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 04 Mar 2016 08:02:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Chair 001</p>]]></description>
+            <title><![CDATA[designer]]></title>
+            <description><![CDATA[<article><h1>designer</h1><p>Chair 001</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/163cca07-6230-40ca-b003-3d7eb55cdeac.png"></article>]]></description>
             <link>https://thegrid.ai/graphic-ref/375cf491-e903-4f49-ac94-e5ed60e9b00b/index.html</link>
             <guid isPermaLink="false">375cf491-e903-4f49-ac94-e5ed60e9b00b</guid>
-            <pubDate>Wed, 24 Feb 2016 15:19:18 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 08:04:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
