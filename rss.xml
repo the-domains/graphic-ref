@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Graphic.Ref]]></title>
         <description><![CDATA[Graphic.Ref]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/graphic-ref/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:19:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 08:03:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/graphic-ref/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Text asd</p>]]></description>
+            <link>https://thegrid.ai/graphic-ref/647c51c3-2e33-4a47-bbe0-ac79b12ebca8/index.html</link>
+            <guid isPermaLink="false">647c51c3-2e33-4a47-bbe0-ac79b12ebca8</guid>
+            <pubDate>Fri, 04 Mar 2016 08:02:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Chair 001</p>]]></description>
-            <link>undefined375cf491-e903-4f49-ac94-e5ed60e9b00b/index.html</link>
+            <link>https://thegrid.ai/graphic-ref/375cf491-e903-4f49-ac94-e5ed60e9b00b/index.html</link>
             <guid isPermaLink="false">375cf491-e903-4f49-ac94-e5ed60e9b00b</guid>
             <pubDate>Wed, 24 Feb 2016 15:19:18 GMT</pubDate>
         </item>
